@@ -1,3 +1,12 @@
+Coerência, modernismo e nacionalismo: o politonalismo de Guerra-Peixe
+
+Frederico Barros
+Escola de Música, UFRJ
+contato@fredericobarros.com
+
+Resumo:
+O trabalho propõe algumas hipóteses para entender a opção de Guerra-Peixe por técnicas politonais em suas primeiras obras nacionalistas após o abandono do dodecafonismo. Para isso, são trazidos comentários de Béla Bartók e Darius Milhaud a respeito de atonalismo, politonalismo e como procedimentos ligados a estes operam sobre material que se pode entender como tendo caráter popular ou nacional. A partir da distinção entre politonalismo harmônico e contrapontístico, torna-se possível compreender melhor como estas técnicas serviram a Guerra-Peixe na tentativa de que música soasse ao mesmo tempo moderna e nacional.
+
 1. O problema da coerência
 
 No Brasil dos anos 1940 e 50, a ideia de uma música de concerto "avançada" tendia a ser associada a uma linguagem harmônica que tivesse incorporado o total cromático a seu vocabulário e dele fizesse uso ostensivo. Apenas entre os círculos ligados ao Partido Comunista a ideia de progressismo artístico estava ancorada na realização de uma música para as "massas", positiva e portadora de valores voltados à sociedade que estaria por vir, portanto para quem se colocasse numa perspectiva mais distante desse conjunto de ideias ou raciocinasse de um ponto de vista puramente técnico, afastar-se do atonalismo poderia significar uma espécie de capitulação.[^1]
@@ -32,26 +41,15 @@ Na melodia tocada pelos violinos no *Maracatu* da *Suíte para Quarteto ou Orque
 
 Evidentemente trata-se de tipos ideais, pois raros são os casos que se enquadram única e univocamente em só um dos tipos. Sua utilidade consiste em oferecer balizas para pensar a prática composicional na tradição de concerto ocidental do século XX face a trechos de obras em que se pode identificar, devido à manutenção de sua identidade, a convivência de estruturas que em geral ou já são previamente encontradas na tradição -- como as diferentes rotações da coleção diatônica, escalas pentatônicas, acordes etc. --, ou são criadas a partir de raciocínios já presentes na prática comum dessa tradição -- como escalas sintéticas e estruturas formadas por ciclos de intervalos. O *Maracatu* apresentado acima é paradigmático: no efeito tímbrico do ostinato, onde contrabaixos e violoncelos trabalham num modo que contém sol enquanto nas violas há sol, há complexificação, enquanto na já discutida relação entre o ostinato e as cordas agudas encontramos planos paralelos. Já como pudemos observar na Suíte n^o^ 2, ali os métodos politonais complexificam e nublam o característico dos materiais empregados, dando-lhes uma sonoridade mais próxima da música de concerto contemporânea de Guerra-Peixe, mas sem anulá-los completamente. As cromatizações "intra-modos" realizadas por ele -- a chamada "flutuação modal" -- aparecem menos como forma de escapar ao característico e mais como expedientes para o desenvolvimento temático e também, em boa medida, complexificação. Trata-se de um elemento importante da técnica modal de Guerra-Peixe e, não por acaso, é mais frequente em obras de maior duração como sonatas ou peças de câmara, cuja ligação forte com a tradição de concerto estabelece a necessidade de sustentar um discurso de longo alcance com certa economia de meios. Assim, partindo daquela oposição entre diatonismo e cromatismo discutida há pouco, vemos que Guerra-Peixe talvez tenha encontrado mecanismos para produzir um modalismo que não precisava ser diatônico para evitar perder suas características; um modalismo que se pode dizer, mesmo sob o risco de oxímoro, cromático e que merece uma discussão em separado que não poderá ser feita aqui.[^8]
 
----
-
 O recurso à politonalidade e à polimodalidade parecia ser uma forma de produzir texturas harmonicamente complexas usando material folclórico, que tenderia a ser diatônico. Assim Guerra-Peixe não descaracterizaria o material, mas conseguiria também uma complexidade maior. Ir para o Recife e para o interior de São Paulo fazer pesquisa folclórica não significou, portanto, trocar completamente a música de concerto de sua época por uma suposta "música brasileira" ainda por ser criada. Ao contrário, havia uma preocupação em ligar sua música à contemporaneidade pela via da tradição de concerto ocidental e muitos dos mecanismos a que Guerra-Peixe recorreu foram oferecidos por esta própria tradição, ao menos em sua vertente modernista. Há que se considerar, portanto, que polimodalismo e politonalismo talvez tivessem maior alcance na maneira de pensar a música na época e esta foi a razão para trazer os escritos de Milhaud aqui -- compositor que, aliás, teve alguma influência no meio musical carioca no início do século[^9]. No caso de Guerra-Peixe só podemos imaginar que esse tipo de questionamento teria entrado em jogo naquele período de gestação de sua nova fase composicional, quando do fim dos anos 1940 até mais ou menos a metade da década seguinte fez a passagem de dodecafonista a nacionalista. Diante disso, fazia sentido que ele fosse buscar em sua bagagem técnica e teórica instrumentos para lidar com os desafios composicionais colocados por suas novas exigências estéticas. Gostaria de sugerir que o politonalismo serviu precisamente a esses fins, ao menos durante os primeiros anos de sua fase nacionalista por tender a ser visto como especialmente adequado ao diatonismo implícito no modalismo, este por sua vez um elemento importante na definição identitária de nossa sempre nascente música de concerto.
 
-
-
-Referências Bibliográficas:
-
+Referências:
 
 GUERRA-PEIXE, C. *Carta a Curt Lange*. Recife: 09/06/1949. Acervo Curt Lange, UFMG. Grifo meu.
 
 GUERRA-PEIXE, C. *Carta a Curt Lange*. Recife: 08/10/1951. Acervo Curt Lange, UFMG.
 
-GUERRA-PEIXE, C. *Carta a Mozart de Araújo*. Recife: 20/12/1956. **Acervo Sala Mozart Araújo, CCBB-RJ**.
-
-ANDRADE, M. *Ensaio sobre a Música Brasileira. *Belo Horizonte: Editora Itatiaia, 2006a.
-
-ANDRADE, M. *Música, Doce Música*. Belo Horizonte : Ed. Itatiaia, 2006b.
-
-MÉDICIS, F. de. "Darius Milhaud and the Debate on Polytonality in the French Press of the 1920s". In: *Music and Letters. *Vol. 86, no. 4, Nov. 2005, seção "Nationalism".
+MÉDICIS, F. de. "Darius Milhaud and the Debate on Polytonality in the French Press of the 1920s". In: *Music and Letters. *Vol. 86, no. 4, Nov. 2005, seção "Nationalism".MÉDICIS
 
 MILHAUD, D. *Notes sur La Musique: essais et chroniques*. Paris: Flammarion, 1982.
 
@@ -96,3 +94,12 @@ Correa do lago milhaud veloso guerra
 
 [^9] Referencia do Correa do Lago
 
+
+
+
+
+
+
+Frederico Barros é professor de História da Música na Universidade Federal do Rio de Janeiro. Possui graduação e mestrado em História, respectivamente pela Universidade Federal Fluminense e Pontifícia Universidade Católica do Rio de Janeiro, e doutorado em Sociologia pela Universidade de São Paulo. Suas áreas de interesse são música de concerto e músicas populares urbanas ao longo do século XX, relações entre tradição e modernidade e história intelectual.
+
+Frederico Barros is assistant professor of Music History at the Universidade Federal do Rio de Janeiro. He earned his degrees in History at Universidade Federal Fluminense and Pontifícia Universidade Católica do Rio de Janeiro and has a PhD in Sociology. Areas of interest include 20th Century popular and art musics, relations between tradition and modernity and Intellectual History. 
