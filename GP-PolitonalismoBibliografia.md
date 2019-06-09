@@ -24,7 +24,8 @@ Allen Forte sobre a infl do Hindemith.
 FARIA; BARROS; SERRÃO. *Op. Cit.*
 GP - ESTUDOS DE FOLC E MUSICA POP URBANA
 ARTIGO SOBRE GP E O TAINE, TENHO EM ALGUM LUGAR
-TESE
+- TESE
 ANTOKOLETZ, E. *Twentieth-Century*.
 Salles (*Op. Cit.* p. 144) a respeito das técnicas de estruturação harmônica de Villa-Lobos
+Correa do lago milhaud veloso guerra
 

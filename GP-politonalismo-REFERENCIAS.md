@@ -1,17 +1,3 @@
-[^1]: Sobre a situação do nacionalismo no período e a importância do serialismo, ver Abrindo uma Carta Aberta, JM Neves, Kater Musica Viva e Allen Forte sobre a infl do Hindemith.
-
-[^2] Apesar de passar por isso rapidamente abaixo, para uma discussão sobre como alguns modos recebem um tratamento próprio na música brasileira, e por consequencia adquirem um som correspondente, ver BARROS - tese.
-
-[^3]: Dentre os ensaios que compõem a coletânea *Estudos de Folclore e Música Popular Urbana* (GUERRA-PEIXE, **DATA**), vemos que o assunto é abordado explicitamente em vários deles, sendo que um dos ensaios ainda se chama "Escalas musicais do folclore brasileiro", encompassando já no título uma realidade bastante ampla e demonstrando o interesse do autor pelo tema.
-
-[^4]: A noção de *caráter* tem bastante importância para o pensamento de Guerra-Peixe nessa época, e foi-lhe sugerida, segundo ele mesmo afirma, pela leitura da *Filosofia da Arte*, de Hippolyte Taine. O assunto é discutido com detalhes no **ARTIGO SOBRE GP E O TAINE, TENHO EM ALGUM LUGAR**.
-
-[^5]: "Flutuação modal" é a expressão que Faria (FARIA; BARROS; SERRÃO. **DATA**) utiliza para falar do uso de notas estranhas aos modos nas peças de Guerra-Peixe.
-
-[^6]: MILHAUD. *Polytonalité.* p. 173. **Vale assinalar de passagem que mais uma vez vemos um músico da época mobilizando o argumento da continuidade com as práticas da tradição, da mesma maneira que Schönberg fazia ao falar de suas obras atonais.**
-
-[^7]: O tema é discutido também por Salles (*Op. Cit.* p. 144) a respeito das técnicas de estruturação harmônica de Villa-Lobos.
-
 
 
 
