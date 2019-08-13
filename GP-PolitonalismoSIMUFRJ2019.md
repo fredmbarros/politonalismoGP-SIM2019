@@ -16,7 +16,7 @@ Para discutir o tema, vale tomar uma de suas primeiras peças na fase nacionalis
 
 Ainda que não saibamos bem o que seriam estas "constâncias da harmonia popular brasileira" na obra, já em seus compassos iniciais a peça parece se ligar a referenciais harmônicos um tanto distantes do que se imagina como caracteristicamente brasileiro:
 
-![](media/media/image1.jpeg){width="5.833333333333333in" height="1.1930555555555555in"}
+![](media/image1.jpeg){width="5.833333333333333in" height="1.1930555555555555in"}
 
 Figura 1. Guerra-Peixe: Suíte para quarteto ou orquestra de cordas, Maracatu
 
@@ -26,7 +26,7 @@ O trecho é todo atravessado por uma forma de polimodalidade e um efeito curioso
 
 Também no *Pedinte*, terceiro movimento da *Suíte n^o^ 2 -- Nordestina*, para piano, de 1954, vemos mais uma vez sobreposições de modos diferentes:
 
-![](media/media/image2.jpeg){width="5.118055555555555in" height="2.865972222222222in"}
+![](media/image2.jpeg){width="5.118055555555555in" height="2.865972222222222in"}
 
 Figura 2. Guerra-Peixe: Suíte para piano n. 2, Pedinte
 
