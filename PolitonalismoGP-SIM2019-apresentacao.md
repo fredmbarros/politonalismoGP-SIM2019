@@ -1,5 +1,5 @@
 ## Década de 1940:
-- dodecafonismo é vanguarda
+- dodecafonismo **é** vanguarda
 - só para o Realismo Socialista progressismo significa outra coisa:
     - música para as massas
     - positiva
