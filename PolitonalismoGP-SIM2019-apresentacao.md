@@ -1,12 +1,7 @@
-## Década de 1940:
-- dodecafonismo **é** vanguarda
-- só para o Realismo Socialista progressismo significa outra coisa:
-    - música para as massas
-    - positiva
-    - valores da sociedade vindoura
-- nacionalistas se academizam e são absorvidos pelo regime
 
-## Como:
+## Década de 1940:
+
+Como:
 - tornar-se nacionalista sem ser atraído para a órbita de VL?
 - abandonar o dodecafonismo em favor do nacionalismo nesse cenário?
 
@@ -36,8 +31,6 @@
 
 - não sabemos bem o que seriam "constâncias da harmonia popular brasileira"
 
-### referenciais harmônicos distantes do que se imagina como caracteristicamente brasileiro:
-
 #### polimodalidade
 
 ![Figura 1: partitura do início do Maracatu da Suíte para quarteto ou orquestra de cordas, de Guerra-Peixe](media/image1.jpeg "Figura 1: Maracatu da Suíte para quarteto ou orquestra de cordas")
@@ -54,7 +47,7 @@
         - fá#-si (4J, centro: *Si*)
         - mi-si (5J, centro: *Mi*)
         - mi-lá (4J, centro: *Lá*)
-        - mi-si (5J, centro: *Mi*, coincidiria com ostinato, apesar da cadência melódica sugerir *si*, mas este vai para *Sol*)
+        - mi-si (5J, centro: *Mi*, coincidiria com ostinato, apesar da cadência melódica sugerir *si*, mas o ostinato vai para *Sol*)
         - ré#.fá#-si (arpejo de *SiM*, ostinato volta para *Mi*)
     
     - como se vê, são dois planos tonalmente paralelos, os violinos e o ostinato
@@ -82,7 +75,7 @@
 - Tenta "diluir" o excessivamente característico do modo
 - transposição abrupta complexifica, "cromatiza" sem soar cromático
 
-## Esses procedimentos na tradição de concerto
+## Esses procedimentos na tradição de concerto do XX
 
 ### Bartók (apud Antokoletz 1992: 94), que entendia de folclore, vê coisas muito parecidas no Pribaoutki:
 - parte vocal: motivos curtos que Strav imita do folc russo
@@ -103,7 +96,7 @@
     - similar ao do Pedinte, entre as duas mãos
 
 - **Politonalidade contrapontística**
-    - em vez de sobrepor acordes ou encadeamentos, melodias em tons diferentes são tocadas simultaneamente
+    - em vez de sobrepor **acordes ou encadeamentos**, **melodias** em tons diferentes são tocadas simultaneamente
 
 ## Duas formas de politonalismo
 
@@ -111,7 +104,7 @@
     - visa à criação de planos simultâneos ou que se alternam rapidamente, cada um deles em uma tonalidade diferente
 
 ### P. HARMÔNICO
-    - empilha acordes ou escalas para gerar estruturas harmonicamente mais complexas que tenderiam a ser ouvidas como entidades em si
+    - empilha acordes ou escalas para gerar estruturas harmonicamente mais complexas MAS que tenderiam a ser ouvidas como entidades em si
 
 #### São tipos ideais, claro
 
@@ -133,19 +126,6 @@
 
 ### O Pedinte mostra a complexificação da textura e do conteúdo harmônico, bem como a existência de planos distintos
 ### - mas permite ver tb a diluição do elemento característico (**IMPORTANTE**)
-
-- dá uma sonoridade mais contemporânea
-
-## Cromatizações **intra-modos**:
-
-    - são menos para descaracterizar
-        - e mais para complexificar **e desenvolver**
-            - é mais comum em obras de longo alcance, mais ligadas à tradição de concerto
-    
-    - **modalismo cromático** é um tema em si
-        - parece um oxímoro
-        - elemento importante da técnica de GP e de vários de seus pares, como Guarnieri e Siqueira (conversa do A Prado com o A Ribeiro)
-        - não precisa ser estritamente diatônico para manter as características
 
 ## Em termos mais gerais
 - vemos que a opção de GP pelo nacionalismo e a pesquisa folclórica não significou trocar a tradição de concerto por outra tradição
